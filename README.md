@@ -38,10 +38,9 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
-<img "https://i.imgur.com/O7OBNLr.png" height="80%" width="80%" alt="osTicket Download" />
-
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Download and Configuration"/>
+  <img src="https://i.imgur.com/O7OBNLr.png" height="80%" width="80%" alt="osTicket Download" />
+  <img src="https://i.imgur.com/yoSKlUp.png" height="80%" width="80%" alt="Inside the VM"/>
 </p>
 <p>
   <strong>Step 2: Downloading and Configuring osTicket</strong><br>
