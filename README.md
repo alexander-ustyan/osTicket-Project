@@ -34,17 +34,16 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <p>
   <strong>Step 1: Environment Setup and Prerequisite Installation</strong><br>
-  Begin by ensuring your Azure virtual machine is running Windows 10 (21H2) with Remote Desktop enabled. Verify that Internet Information Services (IIS) is installed and properly configured. Install the required PHP version and adjust settings (such as file upload limits and execution time) as specified in the osTicket documentation. Finally, install MySQL to support the osTicket database.
-</p>
+  Begin by ensuring your Azure virtual machine is running Windows 10 (21H2) with Remote Desktop enabled. Log into the VM and begin osTicket download. Verify that Internet Information Services (IIS) is installed and properly configured. Install the required PHP version and adjust settings (such as file upload limits and execution time) as specified in the osTicket documentation. To enable IIS, proceed to the windows start menu, control panel, "turn Windows features on/off", Internet Information Services, and check the box as well as the World Wide Web Services checkbox.</p>
 <br />
 
 <p>
-  <img src="https://i.imgur.com/O7OBNLr.png" height="80%" width="80%" alt="osTicket Download" />
   <img src="https://i.imgur.com/yoSKlUp.png" height="80%" width="80%" alt="Inside the VM"/>
+  <img src="https://i.imgur.com/O7OBNLr.png" height="80%" width="80%" alt="osTicket Download" />
 </p>
 <p>
   <strong>Step 2: Downloading and Configuring osTicket</strong><br>
-  Download the latest osTicket package from the official website or GitHub repository. Extract the package into your designated directory on the IIS server. Edit the configuration file (usually named <code>ost-config.php</code> or similar) to include your MySQL database credentials and adjust other settings as needed. Ensure that all file and folder permissions are set correctly to allow the web server to read and write where necessary.
+  Make sure to download the latest osTicket package from the official website or GitHub repository. Extract the package into your designated directory on the IIS server. Edit the configuration file (usually named <code>ost-config.php</code> or similar) to include your MySQL database credentials and adjust other settings as needed. Ensure that all file and folder permissions are set correctly to allow the web server to read and write where necessary.
 </p>
 <br />
 
@@ -53,6 +52,7 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <p>
   <strong>Step 3: Database Setup and Final Installation</strong><br>
-  Create a new MySQL database and dedicated user for osTicket. Import the osTicket SQL schema using phpMyAdmin or the MySQL command line. Next, open your browser and navigate to the osTicket installation URL to launch the web-based installer. Follow the on-screen instructions to finalize the installation. If you plan to integrate with Active Directory, configure the LDAP settings within osTicket after installation to enable seamless user authentication.
+  Finally, install MySQL to support the osTicket database. Create a new MySQL database and dedicated user for osTicket. Import the osTicket SQL schema using phpMyAdmin or the MySQL command line. Next, open your browser and navigate to the osTicket installation URL to launch the web-based installer. Follow the on-screen instructions to finalize the installation. If you plan to integrate with Active Directory, configure the LDAP settings within osTicket after installation to enable seamless user authentication.
 </p>
 <br />
+
