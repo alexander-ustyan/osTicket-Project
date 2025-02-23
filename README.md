@@ -30,7 +30,7 @@ This project outlines the prerequisites and installation of the open-source help
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Environment Setup"/>
+  <img src="![Virtual-machine-ost](https://github.com/user-attachments/assets/2819a46d-8cbb-4d22-9c87-d02025645d26)" height="80%" width="80%" alt="Environment Setup"/>
 </p>
 <p>
   <strong>Step 1: Environment Setup and Prerequisite Installation</strong><br>
