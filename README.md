@@ -30,13 +30,15 @@ This project outlines the prerequisites and installation of the open-source help
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="![Virtual-machine-ost]" height="80%" width="80%" alt="Environment Setup"/>
+  <img src="https://i.imgur.com/bPrIomW.png" height="80%" width="80%" alt="Environment Setup"/>
 </p>
 <p>
   <strong>Step 1: Environment Setup and Prerequisite Installation</strong><br>
   Begin by ensuring your Azure virtual machine is running Windows 10 (21H2) with Remote Desktop enabled. Verify that Internet Information Services (IIS) is installed and properly configured. Install the required PHP version and adjust settings (such as file upload limits and execution time) as specified in the osTicket documentation. Finally, install MySQL to support the osTicket database.
 </p>
 <br />
+
+<img "https://i.imgur.com/O7OBNLr.png" height="80%" width="80%" alt="osTicket Download" />
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Download and Configuration"/>
