@@ -48,7 +48,7 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Database Setup and Final Installation"/>
+  <img src="https://imgur.com/a/c5HGIRZ" height="80%" width="80%" alt="Database Setup and Final Installation"/>
 </p>
 <p>
   <strong>Step 3: Database Setup and Final Installation</strong><br>
