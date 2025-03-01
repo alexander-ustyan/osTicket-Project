@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This project covers the prerequisites and installation of osTicket, an open-source help desk ticketing system. It demonstrates my ability to set up and configure ticketing systems for efficient support operations. Through this tutorial, I showcase my skills in system installation, configuration, and IT support setup.<br />
+This tutorial guides you through the prerequisites and step-by-step installation of osTicket, an open-source help desk ticketing system. It provides a hands-on approach to setting up and configuring osTicket for efficient support operations. By following this guide, you'll learn essential system installation, configuration, and IT support setup skills, demonstrating how to deploy a fully functional ticketing system in a cloud environment.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -156,7 +156,7 @@ Click “Install Now!” to complete the installation and establish a connection
 <img src="https://i.imgur.com/kJJvDZ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Successfully installed osTicket, ensuring there were no errors during the setup process. Verified the help desk login page by browsing to http://localhost/osTicket/scp/login.php, confirming administrative access. Checked the end-user portal by navigating to http://localhost/osTicket/ to ensure customers could submit support tickets.
+Now osTicket is Successfully installed!
 </p>
 <br />
-
+<img src="https://i.imgur.com/UzfhvY5.png" height="80%" width="80%" alt="Done"/>
