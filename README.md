@@ -159,4 +159,7 @@ Click “Install Now!” to complete the installation and establish a connection
 Now osTicket is Successfully installed!
 </p>
 <br />
+
+[Post-Install Configurations](https://github.com/alexander-ustyan/osTicket2-Lab)
+
 <img src="https://i.imgur.com/UzfhvY5.png" height="80%" width="80%" alt="Done"/>
