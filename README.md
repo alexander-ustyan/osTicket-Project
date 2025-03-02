@@ -101,8 +101,8 @@ Extract osTicket v1.15.8 (osTicket-v1.15.8.zip) from the osTicket-Installation-F
 <br />
 
 <p>
-<img src="https://i.imgur.com/U57GrB2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/h0oJwPC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n5dA8Xl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ureFMdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In IIS Manager, navigate to Sites → Default → osTicket, then click “Browse :80” to check the osTicket installation. If required PHP extensions are missing, return to IIS Manager, open PHP Manager for osTicket, and enable the necessary extensions:
