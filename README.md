@@ -49,7 +49,7 @@ From the osTicket-Installation-Files folder, install PHP Manager for IIS (PHPMan
 <br />
 
 <p>
-<img src="https://i.imgur.com/VYTqWVC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3SFSufm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the osTicket-Installation-Files folder, install the IIS Rewrite Module (rewrite_amd64_en-US.msi) to enable URL rewriting and enhance web functionality. Configure the module within Internet Information Services (IIS) to support osTicket’s URL structure, improving accessibility and request routing. This ensures a seamless and optimized web application experience.
@@ -57,8 +57,8 @@ From the osTicket-Installation-Files folder, install the IIS Rewrite Module (rew
 <br />
 
 <p>
-<img src="https://i.imgur.com/rSj3xj1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/k0rzmXx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BhoHxaf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Create the C:\PHP directory as the installation path for PHP on osticket-vm. Extract PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the osTicket-Installation-Files folder into C:\PHP to set up the PHP runtime environment. This configuration ensures compatibility with IIS and osTicket, enabling the web application to efficiently process PHP scripts.
@@ -66,7 +66,7 @@ Create the C:\PHP directory as the installation path for PHP on osticket-vm. Ext
 <br />
 
 <p>
-<img src="https://i.imgur.com/OOtefEn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xg3UpTa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install VC_redist.x86.exe from the osTicket-Installation-Files folder to provide the necessary Microsoft Visual C++ runtime libraries for PHP and IIS. This ensures compatibility between the PHP environment and Windows Server, preventing runtime errors and enhancing system stability. Proper integration of the Visual C++ Redistributable is essential for the successful execution of osTicket on IIS.
