@@ -85,7 +85,7 @@ Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the osTicket-Installation-Fil
 <br />
 
 <p>
-<img src="https://i.imgur.com/HjtdWM3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/91hAbs3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open Internet Information Services (IIS) Manager as an administrator to set up the PHP environment for osTicket. Use PHP Manager to register PHP within IIS, setting the executable path to C:\PHP\php-cgi.exe for proper script processing. Apply the changes by restarting IIS (stop and start the server) to ensure seamless integration and functionality.
