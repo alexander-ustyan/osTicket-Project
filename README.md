@@ -41,7 +41,7 @@ In the Azure Portal, create a Windows 10 Pro virtual machine (osticket-vm) with 
 On osticket-vm, prepare the environment for hosting osTicket by downloading and extracting the osTicket-Installation-Files.zip to the desktop. Install Internet Information Services (IIS) with CGI support, ensuring the required web server functionality. Enable World Wide Web Services → Application Development Features → [X] CGI to support osTicket’s deployment. Now, the system is ready for the next installation steps.
   
 </p>
-<img src="https://i.imgur.com/vzFpc4A.png"80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/6qx9l93.png"80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 From the osTicket-Installation-Files folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) to simplify PHP configuration within Internet Information Services (IIS). Use this tool to manage PHP settings and ensure seamless integration with osTicket. Verify that the PHP environment is properly set up to support osTicket’s functionality, optimizing performance and compatibility.
