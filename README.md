@@ -115,7 +115,7 @@ After enabling these extensions, refresh the osTicket site in the browser to con
 <br />
 
 <p>
-<img src="https://i.imgur.com/FO0g48y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5yHvwwN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php to ost-config.php. This step is crucial for osTicket to recognize and apply the correct settings during installation, ensuring proper system functionality.
@@ -123,7 +123,7 @@ Navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php 
 <br />
 
 <p>
-<img src="https://i.imgur.com/OLpsDze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FEfMLoP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To enhance security and ensure proper functionality, navigate to C:\inetpub\wwwroot\osTicket\include, right-click ost-config.php, and select Properties → Security. Disable inheritance by removing all inherited permissions. Then, add a new permission entry granting Everyone full access to ost-config.php, allowing osTicket to modify the configuration as needed.
@@ -131,7 +131,7 @@ To enhance security and ensure proper functionality, navigate to C:\inetpub\wwwr
 <br />
 
 <p>
-<img src="https://i.imgur.com/2ruGQE9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/stBvAPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the web browser, continue the osTicket installation by clicking "Continue", setting the Helpdesk Name, and configuring the default email for receiving customer inquiries.
