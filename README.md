@@ -35,7 +35,7 @@ In the Azure Portal, create a Windows 10 Pro virtual machine (osticket-vm) with 
 <br />
 
 <p>
-<img src="https://i.imgur.com/k1QK8ia.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tL8ccmz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On osticket-vm, prepare the environment for hosting osTicket by downloading and extracting the osTicket-Installation-Files.zip to the desktop. Install Internet Information Services (IIS) with CGI support, ensuring the required web server functionality. Enable World Wide Web Services → Application Development Features → [X] CGI to support osTicket’s deployment. Now, the system is ready for the next installation steps.
