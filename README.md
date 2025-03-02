@@ -162,7 +162,7 @@ Click “Install Now!” to complete the installation and establish a connection
 <img src="https://i.imgur.com/XvHfiRf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now osTicket is Successfully installed!
+<h2> Now osTicket is Successfully installed! </h2>
 </p>
 <br />
 
