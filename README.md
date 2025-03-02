@@ -93,7 +93,7 @@ Open Internet Information Services (IIS) Manager as an administrator to set up t
 <br />
 
 <p>
-<img src="https://i.imgur.com/hhXzRB4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GgCc79A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Extract osTicket v1.15.8 (osTicket-v1.15.8.zip) from the osTicket-Installation-Files folder. Copy the upload folder into C:\inetpub\wwwroot, ensuring the web application is placed in the correct IIS directory. Rename the upload folder to osTicket within C:\inetpub\wwwroot to establish the application’s root directory.
