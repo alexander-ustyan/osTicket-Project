@@ -74,8 +74,11 @@ Install VC_redist.x86.exe from the osTicket-Installation-Files folder to provide
 <br />
 
 <p>
+<img src="https://i.imgur.com/3mcpMvN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <img src="https://i.imgur.com/9gNIoxl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the osTicket-Installation-Files folder using the Typical Setup option to provide database support for osTicket. After installation, launch the MySQL Configuration Wizard and select Standard Configuration to optimize database settings. Set up the root user credentials with Username: root and Password: root to ensure administrative access for database management.
 </p>
