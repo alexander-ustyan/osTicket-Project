@@ -27,7 +27,7 @@ This tutorial guides you through the prerequisites and step-by-step installation
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/wNAle21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://i.imgur.com/4VpzY8A.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Azure Portal, create a Windows 10 Pro virtual machine (osticket-vm) with 2 vCPUs. Set up user credentials (labuser / osTicketPassword1!), then deploy the VM. Once provisioned, find its public IP address under the Networking section. Use Remote Desktop (RDP) to connect by entering the public IP and logging in with the assigned credentials. Now, you're ready to configure the environment for osTicket installation.
