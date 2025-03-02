@@ -146,7 +146,7 @@ This step finalizes the web application setup, database administration, and MySQ
 <br />
 
 <p>
-<img src="https://i.imgur.com/6kkNncQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RC5bkAt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the web browser, finalize the osTicket setup by entering the MySQL database credentials:
