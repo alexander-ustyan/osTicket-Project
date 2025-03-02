@@ -156,7 +156,7 @@ Click “Install Now!” to complete the installation and establish a connection
 <br />
 
 <p>
-<img src="https://i.imgur.com/kJJvDZ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XvHfiRf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now osTicket is Successfully installed!
